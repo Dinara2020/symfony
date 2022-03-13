@@ -47,7 +47,8 @@
         "symfony/twig-pack": "*",
         "symfony/validator": "*",
         "symfony/web-link": "*",
-        "symfony/yaml": "*"
+        "symfony/yaml": "*",
+      "ext-json": "*"
     },
     "require-dev": {
         "symfony/debug-pack": "*",
